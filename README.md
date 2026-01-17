@@ -1,2 +1,2 @@
 # SQL_Portfolio
-SQL Portfolio showcasing real-world data analysis projects
+This project uses SQL to analyze retail sales data and uncover customer behavio, revenue trends, and top selling products.
