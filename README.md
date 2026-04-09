@@ -6,19 +6,19 @@ analysis to extract, clean, and analyze operational datasets, enabling accurate 
 operations metrics, and delivering insights that improve productivity and process efficiency.
 
 ## SKILLS
-# Core Skills
+Core Skills
 - Operations Data Analysis
 - Process Optimization
 - KPI Tracking & Reporting
-# SQL & Data Skills
+SQL & Data Skills
 - SQL (Joins, Aggregations, GROUP BY)
 - Subqueries
 - Data Cleaning & Validation
-# Tools & Technologies
+Tools & Technologies
 - SQL Server
 - Excel (Pivot Tables, Vlookup)
 - GitHub 
-# Analytical Skills
+Analytical Skills
 - Trend Analysis
 - Root Cause Analysis
 - Reporting & Insights
