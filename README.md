@@ -1,2 +1,5 @@
 # SQL_Portfolio
-This project uses SQL to analyze retail sales data and uncover customer behavio, revenue trends, and top selling products.
+
+Welcome to my SQL portfolio!
+
+This repository showcases my SQL skills through real-world data analysis projects.
