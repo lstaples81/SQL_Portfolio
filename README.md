@@ -1,5 +1,9 @@
 # SQL_Portfolio
 
-Welcome to my SQL portfolio!
+## ABOUT ME
+I am an Operations Analyst with experience using data to improve business processes, optimize workflows, and support operational decision-making. I specialize in SQL-based data
+analysis to extract, clean, and analyze operational datasets, enabling accurate reporting and performance tracking. My work focuses on identifying inefficiencies, monitoring key 
+operations metrics, and delivering insights that improve productivity and process efficiency.
 
-This repository showcases my SQL skills through real-world data analysis projects.
+## SKILLS
+
