@@ -43,4 +43,8 @@ operations metrics, and delivering insights that improve productivity and proces
 - Used CTEs and window functions for advanced reporting
 - Improved visibility into performance metrics
 
+  ## CONTACT
+  - Email: lstephens8@me.com
+  - GitHub: https://github.com/lstaples81
+
   
